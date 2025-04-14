@@ -1,7 +1,7 @@
 # DRAProQuiz
 
 **Privacy Policy for DRAProQuiz**  
-**Effective Date: April 10, 2025**
+**Effective Date: April 14, 2025**
 
 ### 1. Introduction  
 Welcome to **DRAProQuiz** (the "App"), developed by **Benisson Academy** ("we", "us", or "our"). Your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use the App. By using DRAProQuiz, you agree to the terms of this policy.
